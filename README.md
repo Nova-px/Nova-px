@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nova-px&count_private=true)
+![GitHub stats](https://github-stats-vert-one.vercel.app/api?username=Nova-px&count_private=true)
